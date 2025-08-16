@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 34
-    namespace 'com.twbt.unique_identifier'
+    namespace "altercode.xyz.uniqueidentifier"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
